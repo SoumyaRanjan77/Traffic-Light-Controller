@@ -34,7 +34,7 @@ Traffic Light Controller/
 ## ✅ How to Run
 
 1. Visit [EDA Playground](https://www.edaplayground.com/)
-2. Paste the contents of `traffic_light_controller.v` and `testbench.v`
+2. Paste the contents of `top.v` and `tb.v`
 3. Select a simulator like **Icarus Verilog**
 4. Click **Run** to simulate and observe waveform outputs
 
